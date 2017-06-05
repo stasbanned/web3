@@ -1,0 +1,14 @@
+{
+  "name": "template",
+  "description": "template for starting",
+  "main": "index.js",
+  "authors": [
+    "savtym"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Savtym/template",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+  <menu>
+    <group>
+      <head href="/programming/">Программирование</head>
+      <item href="/programming/perl/">Perl</item>
+      <item href="/programming/javascript/">JavaScript</item>
+      <item href="/programming/PHP/">PHP</item>
+      <item href="/programming/java/">Java</item>
+    </group>
+    <group>
+      <head href="/internet/">Интернет</head>
+      <item href="/internet/html_css/">HTML</item>
+      <item href="/internet/XML/">XML</item>
+      <item href="/internet/theory/">Теория</item>
+    </group>
+    <item href="/misc/">Прочее</item>
+  </menu>
+</recipe>
